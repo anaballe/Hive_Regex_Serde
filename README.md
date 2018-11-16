@@ -9,7 +9,7 @@ While making the project page at https://stackoverflow.com/questions/11/calculat
 
 The valid row contains the following fields and their order is not defined in the page specified as dataset : 
 
-         * Id (integer) - id of the post
+                   * Id (integer) - id of the post
     		 * PostTypeId (integer: 1 or 2) - 1 for questions, 2 for answers
     		 * CreationDate (date) - post creation date in the format "YYYY-MM-DDTHH:MM:SS.ms"
     		 * Tags (string, optional) - list of post tags, each tag is wrapped with html entities '&lt;' and '&gt;'
