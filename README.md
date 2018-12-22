@@ -1,4 +1,4 @@
-# Analysis Using Hive Regex Serde modules of a StackerOverflow website page
+# Analysis Using Hive Regex Serde modules of a StackOverflow website page
 This project uses Hive managed and external tables on HDFS space and is a analysis of the stackoverflow website and uses its input directly as the html page.Concept of regular expressions is implemented using RegexSerde modules present in added jars from another location and is thus used in filling the managed and external tables.
 
 Dataset's description :
